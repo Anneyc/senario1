@@ -1,4 +1,5 @@
-﻿#page2:
+﻿#new verion
+#page2:
 #installing windows ADK 
 cd "C:\iso\Windows Kits\10\ADK"
 Start-Process -FilePath adksetup.exe -ArgumentList "/s" -wait
